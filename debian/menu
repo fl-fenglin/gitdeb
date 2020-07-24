@@ -1,0 +1,5 @@
+# You must remove unused comment lines for the released package.
+#?package(miivii-l4t-apt-source):needs="X11|text|vc|wm" \
+#                    section="Applications/see-menu-manual"\
+#                    title="miivii-l4t-apt-source" \
+#                    command="/usr/bin/miivii-l4t-apt-source"
