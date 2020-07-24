@@ -1,17 +1,13 @@
-debhello (1.0.0-20200724172000) trusty; urgency=medium
-
-  * 1.0.0-20200724172000 version release.
-
- -- Feng Lin <apt.test@miivii.com>  Fri, 24 Jul 2020 17:21:25 +0800
-
-debhello (1:5.5.5-0ubuntu1) trusty; urgency=medium
+miivii-l4t-apt-source (1:5.5.5-0ubuntu1) trusty; urgency=medium
 
   * 5.5.5 version releases.
 
- -- Feng Lin <apt.test@miivii.com>  Fri, 24 Jul 2020 15:18:59 +0800
+ -- Feng Lin <apt.test@miivii.com>  Fri, 24 Jul 2020 19:14:03 +0800
 
-debhello (0.0) unstable; urgency=medium
+miivii-l4t-apt-source (1.0.0-2020154214) stable; urgency=low
 
-  * Initial Release.
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+  * 
 
- -- Feng Lin <apt.test@miivii.com>  Fri, 24 Jul 2020 14:00:49 +0800
+ -- Feng Lin <apt.test@miivii.com>  Thu, 23 Jul 2020 15:42:14 +0800
