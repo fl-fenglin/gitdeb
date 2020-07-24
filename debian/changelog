@@ -1,3 +1,9 @@
+debhello (1.0.0-20200724172000) trusty; urgency=medium
+
+  * 1.0.0-20200724172000 version release.
+
+ -- Feng Lin <apt.test@miivii.com>  Fri, 24 Jul 2020 17:21:25 +0800
+
 debhello (1:5.5.5-0ubuntu1) trusty; urgency=medium
 
   * 5.5.5 version releases.
